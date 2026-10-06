@@ -83,6 +83,11 @@ public class StudiKasus228 {
             } else {
                 System.out.println("Status : Tidak memperoleh dana penghargaan karena tidak lolos pendanaan PKM.");
             }
+
+        } else {
+            System.out.println("Status : Tidak memperoleh dana penghargaan karena jenis kegiatan lainnya.");
         }
+
+        input.close();
     }
 }
