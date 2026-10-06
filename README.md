@@ -3,7 +3,7 @@ Nama    : Reksa Dhena Ardhana
 NIM     : 264107020195
 Kelas   : TI - 1B
 
-## Hasil Uji Studi Kasus 2 oleh `krisna teuku suwito`
+### Hasil Uji Studi Kasus 2 oleh `krisna teuku suwito`
 
 | No | Jenis | Dokumen | Juara/Dana | Output | Sesuai? |
 |----|-------|---------|------------|--------|---------|
